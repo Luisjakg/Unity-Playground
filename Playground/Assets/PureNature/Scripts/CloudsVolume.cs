@@ -31,6 +31,6 @@ public class CloudsVolume : MonoBehaviour
             matrices[i] = matrix;
             Graphics.DrawMesh(quadMesh, matrix, cloudsMaterial, 0);
         }
-            Graphics.DrawMeshInstanced(quadMesh, 0, cloudsMaterial, matrices, volumeSamples);
+        Graphics.DrawMeshInstanced(quadMesh, 0, cloudsMaterial, matrices, volumeSamples);
     }
 }
