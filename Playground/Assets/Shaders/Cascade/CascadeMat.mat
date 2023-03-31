@@ -96,7 +96,7 @@ Material:
     - _Blend: 0
     - _BottomStrength: 4
     - _BumpScale: 1
-    - _Cascade_Alpha: 0.41
+    - _Cascade_Alpha: 0.7
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
