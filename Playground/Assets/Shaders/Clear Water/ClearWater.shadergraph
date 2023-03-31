@@ -2499,9 +2499,6 @@
             "m_Id": "0bcbbb42cdd14789b5f5b26a109463b4"
         },
         {
-            "m_Id": "9ad731aa69804d1a9b3e3b6c0756d3f4"
-        },
-        {
             "m_Id": "2b290d326c9e4995944d18bc04990520"
         }
     ],
@@ -3433,21 +3430,6 @@
         "z": 0.0,
         "w": 0.0
     }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
-    "m_ObjectId": "42ac688899e5499aa536baec1b179783",
-    "m_Id": 1477493359,
-    "m_DisplayName": "DepthFalloff",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "_DepthFalloff",
-    "m_StageCapability": 3,
-    "m_Value": 0.05000000074505806,
-    "m_DefaultValue": 0.0,
-    "m_Labels": []
 }
 
 {
@@ -5779,21 +5761,6 @@
     },
     "m_Space": 0,
     "m_PositionSource": 0
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
-    "m_ObjectId": "9ad731aa69804d1a9b3e3b6c0756d3f4",
-    "m_Id": 1477493359,
-    "m_DisplayName": "DepthFalloff",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "_DepthFalloff",
-    "m_StageCapability": 3,
-    "m_Value": 0.05000000074505806,
-    "m_DefaultValue": 0.0,
-    "m_Labels": []
 }
 
 {
@@ -8482,9 +8449,6 @@
     "m_Slots": [
         {
             "m_Id": "bb7f17dd89024cd0b2ef51b2489b81ef"
-        },
-        {
-            "m_Id": "42ac688899e5499aa536baec1b179783"
         },
         {
             "m_Id": "7632b1252e9c4c47be32324b3fb390d4"
